@@ -1,0 +1,1 @@
+Advent Of Code challenges. Dumb solutions probably. But they work!
