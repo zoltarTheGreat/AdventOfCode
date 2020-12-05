@@ -15,17 +15,13 @@
         🔫 🐽rangeAndLetter 0❗️ 🔤-🔤 ❗ ➡ minAndMax
         🐽rangeAndLetter 1❗️ ➡ letter
 
-        🖍🆕 min🔢
-        🖍🆕 max🔢
-
-
-        🍺🔢 🐽minAndMax 0❗️ 10 ❗️  ➡ 🖍 min
-        🍺🔢 🐽minAndMax 1❗️ 10 ❗️ ➡ 🖍 max
+        🍺🔢 🐽minAndMax 0❗️ 10 ❗️  ➡ min
+        🍺🔢 🐽minAndMax 1❗️ 10 ❗️ ➡ max
        
         🎶 🐽policyAndPassword 1❗️ ❗️ ➡ passArray
 
-        🐽 passArray min ➖ 1 ❗ ➡ 🖍🆕 minC
-        🐽 passArray max ➖ 1 ❗ ➡ 🖍🆕 maxC
+        🐽 passArray min ➖ 1 ❗ ➡ minC
+        🐽 passArray max ➖ 1 ❗ ➡ maxC
 
         ↪️ ❎🤜🤜minC 🙌 letter🤛 🙌 🤜maxC 🙌 letter🤛🤛❗🍇
             totalsTwo ⬅ ➕1
