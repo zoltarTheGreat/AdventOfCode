@@ -1,0 +1,82 @@
+📦 files 🏠
+
+🏁 🍇
+	🍺📇🐇📄 🔤./input.txt🔤 ❗ ➡ file
+	🍺🔡 file ❗ ➡ text
+    🔧text❗ ➡ clean
+	🔫 clean 🔤❌n🔤 ❗ ➡ lines
+
+
+    0 ➡ 🖍🆕 trees
+    1 ➡ 🖍🆕 Finaltrees
+    
+    🔂 y 🆕⏩ 0 📏lines❓ 1❗️ 🍇
+        🎶 🐽 lines y❗❗ ➡ row
+        y ✖ 1 🚮 📏row❓ ➡ x
+
+        ↪️ 🐽 row x ❗ 🙌 🔤#🔤 🍇
+            trees ⬅ ➕1
+           
+        🍉
+
+    🍉
+
+    Finaltrees ⬅ ✖ trees
+    0 ➡ 🖍trees
+
+    🔂 y 🆕⏩ 0 📏lines❓ 1❗️ 🍇
+        🎶 🐽 lines y❗❗ ➡ row
+        y ✖ 3 🚮 📏row❓ ➡ x
+
+        ↪️ 🐽 row x ❗ 🙌 🔤#🔤 🍇
+            trees ⬅ ➕1
+        🍉
+
+    🍉
+
+    😀 🔡 trees ❗️❗️
+
+    Finaltrees ⬅ ✖ trees
+    0 ➡ 🖍trees
+
+    🔂 y 🆕⏩ 0 📏lines❓ 1❗️ 🍇
+        🎶 🐽 lines y❗❗ ➡ row
+        y ✖ 5 🚮 📏row❓ ➡ x
+
+        ↪️ 🐽 row x ❗ 🙌 🔤#🔤 🍇
+            trees ⬅ ➕1
+        🍉
+
+    🍉
+
+    Finaltrees ⬅ ✖ trees
+    0 ➡ 🖍trees
+
+    🔂 y 🆕⏩ 0 📏lines❓ 1❗️ 🍇
+        🎶 🐽 lines y❗❗ ➡ row
+        y ✖ 7 🚮 📏row❓ ➡ x
+
+        ↪️ 🐽 row x ❗ 🙌 🔤#🔤 🍇
+            trees ⬅ ➕1
+        🍉
+
+    🍉
+
+    Finaltrees ⬅ ✖ trees
+    0 ➡ 🖍trees
+
+    🔂 y 🆕⏩ 0 📏lines❓ ➕ 2 2❗️ 🍇
+        🎶 🐽 lines y❗❗ ➡ row
+        🤜y ➗ 2🤛 🚮 📏row❓ ➡ x
+
+        ↪️ 🐽 row x ❗ 🙌 🔤#🔤 🍇
+            trees ⬅ ➕1
+        🍉
+
+    🍉
+
+    Finaltrees ⬅ ✖ trees
+    0 ➡ 🖍trees
+
+    😀 🔡 Finaltrees ❗️❗️
+🍉
