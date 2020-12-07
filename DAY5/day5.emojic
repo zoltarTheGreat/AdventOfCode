@@ -1,0 +1,42 @@
+📦 files 🏠
+
+🏁 🍇
+	🍺📇🐇📄 🔤./input.txt🔤 ❗ ➡ file
+	🍺🔡 file ❗ ➡ text
+    🔧text❗ ➡ clean
+	🔫 clean 🔤❌n🔤 ❗ ➡ lines
+
+    0 ➡ 🖍🆕biggest
+    🆕🍨🐚🔢🍆❗ ➡ 🖍🆕seatids
+
+    🔂line lines 🍇
+        🎶 line ❗ ➡ seat
+        🆕🔠❗➡🖍🆕binary
+
+ 
+        🔂char seat 🍇
+            ↪️char 🙌 🔤B🔤👐char 🙌 🔤R🔤🍇
+                🐻binary 🔤1🔤❗
+            🍉
+            ↪️char 🙌 🔤F🔤👐char 🙌 🔤L🔤🍇
+                🐻binary 🔤0🔤❗
+            🍉
+        🍉
+
+        🍺🔢 🔡binary❗ 2 ❗️ ➡ seatid
+        😀🔡 seatid ❗❗
+        🐻seatids seatid❗
+
+        ↪️ seatid ▶ biggest 🍇
+            seatid ➡ 🖍biggest
+        🍉
+
+        
+    🍉
+   
+   💭 NOTE: Part 2 I did manually. I dont know how to sort the list of seatids with the 🦁 function.
+   💭 I cant even find any examples that still work on this new version of emojicode...
+    
+    😀🔡 biggest ❗❗
+
+🍉
