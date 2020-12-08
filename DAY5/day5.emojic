@@ -11,7 +11,7 @@
 
     🔂line lines 🍇
         🎶 line ❗ ➡ seat
-        🆕🔠❗➡🖍🆕binary
+        🆕🔠❗➡binary
 
  
         🔂char seat 🍇
@@ -24,7 +24,7 @@
         🍉
 
         🍺🔢 🔡binary❗ 2 ❗️ ➡ seatid
-        😀🔡 seatid ❗❗
+        💭😀🔡 seatid ❗❗
         🐻seatids seatid❗
 
         ↪️ seatid ▶ biggest 🍇
@@ -36,7 +36,20 @@
    
    💭 NOTE: Part 2 I did manually. I dont know how to sort the list of seatids with the 🦁 function.
    💭 I cant even find any examples that still work on this new version of emojicode...
-    
+    🦁 seatids 🍇a 🔢 b 🔢 ➡️ 🔢
+      ↩️ a ➖ b
+    🍉
+    ❗️
+
+    💭 I DID IT 
     😀🔡 biggest ❗❗
+
+    🐽seatids 0❗ ➡ 🖍🆕previous
+    🔂 s seatids 🍇
+        ↪️ s ▶ previous ➕ 1🍇
+            😀🔡 previous ➕ 1 ❗❗
+        🍉
+        s ➡ 🖍previous
+    🍉
 
 🍉
