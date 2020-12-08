@@ -1,0 +1,95 @@
+📦 files 🏠
+
+🏁 🍇
+	🍺📇🐇📄 🔤./input.txt🔤 ❗ ➡ file
+	🍺🔡 file ❗ ➡ text
+    🔧text❗ ➡ clean
+	🔫 clean 🔤❌n🔤 ❗ ➡ lines
+
+
+    0 ➡🖍🆕 index
+    0 ➡🖍🆕 changer
+    0 ➡🖍🆕 accumulator
+    👍➡🖍🆕 finished
+
+    🆕🍯🐚🔡🍆❗➡🖍🆕visited
+
+
+    🔁finished🍇
+
+        🔁 index ◀ 📏lines❓ 🍇
+            🔫 🐽lines index❗ 🔤 🔤 ❗ ➡ instAndStep
+            💭😀🐽lines index❗❗
+            ↪ 🐽 instAndStep 0 ❗ 🙌 🔤acc🔤🍇
+                accumulator ⬅➕ 🍺🔢 🔡🐽 instAndStep 1 ❗❗ 10 ❗️
+                index ⬅ ➕1
+            
+                ↪ 🐣 visited 🔡index❗️❗️🍇
+                    index ⬅ ➕📏lines❓
+                    👎➡ 🖍finished
+                🍉
+                
+                🔤yes🔤 ➡🐽visited 🔡index❗❗
+            🍉
+            ↪ 🐽 instAndStep 0 ❗ 🙌 🔤jmp🔤🍇
+
+                ↪ index 🙌 changer🍇
+                    index ⬅ ➕1
+                    ↪ 🐣 visited 🔡index❗️❗️🍇
+                        index ⬅ ➕📏lines❓
+                        👎➡ 🖍finished
+                    🍉
+                🍉
+                🙅🍇
+                    index ⬅➕🍺🔢 🔡🐽 instAndStep 1 ❗❗ 10 ❗️
+                    ↪ 🐣 visited 🔡index❗️❗️🍇
+                        index ⬅ ➕📏lines❓
+                        👎➡ 🖍finished
+                    🍉 
+                🍉
+                🔤yes🔤 ➡🐽visited 🔡index❗❗
+
+            🍉
+            ↪ 🐽 instAndStep 0 ❗ 🙌 🔤nop🔤🍇
+                
+                ↪ index 🙌 changer🍇
+                index ⬅➕🍺🔢 🔡🐽 instAndStep 1 ❗❗ 10 ❗️
+                    ↪ 🐣 visited 🔡index❗️❗️🍇
+                        index ⬅ ➕📏lines❓
+                        👎➡ 🖍finished
+                    🍉 
+                🍉
+                🙅🍇
+                    index ⬅ ➕1
+                    ↪ 🐣 visited 🔡index❗️❗️🍇
+                        index ⬅ ➕📏lines❓
+                        👎➡ 🖍finished
+                    🍉
+                🍉
+
+                🔤yes🔤 ➡🐽visited 🔡index❗❗
+
+            🍉
+        🍉  
+
+        ↪ changer 🙌 0🍇
+            😀🔤Part 1. Accumulator: 🧲🔡accumulator❗🧲 🔤❗
+        🍉
+
+        🐗 visited ❗
+        changer ⬅➕1        
+
+        ↪ finished🍇
+            😀🔤Please change line 🧲🔡changer❗🧲. Accumulator: 🧲🔡accumulator❗🧲 🔤❗
+            👎➡ 🖍finished
+        🍉
+        🙅🍇
+            👍➡ 🖍finished
+        🍉
+
+        
+        0 ➡🖍index
+        0 ➡🖍accumulator
+    🍉  
+
+🍉
