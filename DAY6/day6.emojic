@@ -4,19 +4,21 @@
 	🍺📇🐇📄 🔤./input.txt🔤 ❗ ➡ file
 	🍺🔡 file ❗ ➡ text
     🔧text❗ ➡ clean
-	🔫 clean 🔤❌n🔤 ❗ ➡ lines
+	🔫 clean 🔤❌n❌n🔤 ❗ ➡ groups
 
     0 ➡ 🖍🆕 lettercount
+    🆕🍯🐚🔢🍆❗➡🖍🆕letterDic
 
-    🔂line lines 🍇
-        🆕🍯🐚🔡🍆❗️ ➡️ 🖍🆕aaaaaaa
+    🔂group groups 🍇
+        🔫 group 🔤❌n🔤 ❗ ➡ peeps
+        🔂peep peeps 🍇
+            🎶 peep ❗ ➡ letters
+            🔂letter letters 🍇
+
+            🍉
+        🍉
     🍉
-    
 
+    😀🔡🍺🔢 🔤a🔤 36 ❗️❗️❗
 
-   🍿 🔤Grapefruit🔤 🔤Birne🔤 🔤Apfel🔤 🍆 ➡️ 🖍🆕keys
-    🦁keys 🍇a 🔡 b 🔡 ➡️ 🔢
-      ↩️ ↔a b❗️
-    🍉
-    ❗️
 🍉
