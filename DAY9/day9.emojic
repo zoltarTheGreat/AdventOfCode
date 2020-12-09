@@ -1,0 +1,89 @@
+📦 files 🏠
+
+🏁 🍇
+	🍺📇🐇📄 🔤./input.txt🔤 ❗ ➡ file
+	🍺🔡 file ❗ ➡ text
+    🔧text❗ ➡ clean
+	🔫 clean 🔤❌n🔤 ❗ ➡ lines
+    
+
+    🆕🍨🐚🔢🍆❗️ ➡️ 🖍🆕numbers
+
+    👍➡🖍🆕 first
+    0➡🖍🆕 outlier
+
+    🔂line lines 🍇
+
+        ↪ 📏numbers❓ ◀ 25 🍇
+            🐻 numbers 🍺🔢 line 10❗❗
+        🍉
+        🙅🍇
+
+            👎➡🖍🆕 belongs
+            0 ➡🖍🆕 i
+            1 ➡🖍🆕 j
+            🔁 i ◀ 📏numbers❓ 🍇
+                
+                🔁 j ◀ 📏numbers❓ 🍇
+                    🍺🔢 line 10❗ ➡ yes
+                    
+                    ↪ 🤜🐽numbers i❗ ➕ 🐽numbers j❗🤛 🙌 yes🍇
+                        👍➡🖍belongs
+                        🐻 numbers 🍺🔢 line 10❗❗
+                        i ⬅➕📏numbers❓
+                        j ⬅➕📏numbers❓
+                    🍉
+                    
+                    j ⬅➕1
+                🍉
+                
+                i ⬅➕1
+                i ➕ 1 ➡🖍 j
+            🍉
+
+            ↪ ❎belongs❗🍇
+                ↪ first 🍇
+                    😀🔤This is not part of preamble 🧲line🧲🔤❗
+
+                    👎➡🖍first
+                    🍺🔢 line 10❗➡ 🖍outlier
+                    💭 This is where I would put my emoji break⏹ IF IT HAD ONE! 
+                🍉
+            🍉
+
+            🐨numbers 0❗️
+        🍉
+    🍉
+
+    🐗numbers❗
+    👍➡ 🖍first
+
+    💭 Part 2
+    🔂 x 🆕⏩ 0 📏lines❓❗️ 🍇
+        🐻 numbers 🍺🔢 🐽lines x❗ 10❗❗
+        🔂 y 🆕⏩ x➕1 📏lines❓❗️ 🍇
+            
+            🐻 numbers 🍺🔢 🐽lines y❗ 10❗❗
+
+            0 ➡🖍🆕 totalSum
+            0 ➡🖍🆕 k
+            🔁 k ◀ 📏numbers❓ 🍇
+                totalSum ⬅➕🐽numbers k❗ 
+                k ⬅➕1
+            🍉
+            ↪ totalSum 🙌 outlier 🍇
+               ↪  first 🍇
+                    🦁 numbers 🍇a 🔢 b 🔢 ➡️ 🔢
+                        ↩️ a ➖ b
+                    🍉
+                    ❗️
+                    😀🔤Encryption weakness 🧲🔡🐽numbers 0❗ ➕🐽numbers 📏numbers❓➖1❗❗🧲🔤❗
+                    👎➡🖍first
+                    💭 Again emojicode does not have a break so this takes forever 
+                🍉
+            🍉
+        🍉
+        🐗numbers❗
+    🍉
+       
+🍉
