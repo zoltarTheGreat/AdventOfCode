@@ -7,6 +7,7 @@
 	🔫 clean 🔤❌n❌n🔤 ❗ ➡ groups
 
     0 ➡ 🖍🆕 lettercount
+    0 ➡ 🖍🆕 lettercountTwo
     🆕🍯🐚🔢🍆❗➡🖍🆕letterDic
 
     🔂group groups 🍇
@@ -14,11 +15,28 @@
         🔂peep peeps 🍇
             🎶 peep ❗ ➡ letters
             🔂letter letters 🍇
-
+                ↪ 🐣 letterDic letter❗️🍇
+                    🐽letterDic letter❗ ➡ value
+                    🍺🔢🔡🍺value❗ 10❗ ➡🖍🆕 numValue
+                    numValue ⬅➕ 1
+                    🐨letterDic letter❗
+                    numValue ➡ 🐽letterDic letter❗
+                🍉
+                🙅‍♀️🍇
+                    1 ➡ 🐽letterDic letter❗
+                🍉
             🍉
         🍉
+        lettercount ⬅➕ 📏letterDic❓
+        🔂 key 🐙letterDic❗🍇
+            ↪ 🍺🔢🔡🍺🐽letterDic key❗❗10❗ 🙌 📏peeps❓🍇
+                lettercountTwo ⬅➕1
+            🍉
+        🍉
+        🐗 letterDic❗
     🍉
 
-    😀🔡🍺🔢 🔤a🔤 36 ❗️❗️❗
+    😀🔡lettercount❗️❗
+    😀🔡lettercountTwo❗️❗
 
 🍉
